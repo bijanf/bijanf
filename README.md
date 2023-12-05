@@ -12,4 +12,5 @@ I am father, friend, climate scientist and love to learn how to code.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijanf&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=bijanf&color=brightgreen)
 
