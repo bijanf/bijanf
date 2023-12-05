@@ -14,3 +14,4 @@ I am father, friend, climate scientist and love to learn how to code.
 
 ![](https://komarev.com/ghpvc/?username=bijanf&color=brightgreen)
 
+![Bijanf's GitHub stats](https://github-readme-stats.vercel.app/api?username=bijanf&show_icons=true&theme=radical)
