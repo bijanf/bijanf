@@ -11,6 +11,6 @@ I am father, friend, climate scientist and love to learn how to code.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bijanfallah/)
 - ⚡ Fun fact: I play soccer at https://www.borussia-pankow-1960.de/.
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijanf&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijanf&layout=compact&hide_border=true)
 
 ![Bijanf's GitHub stats](https://github-readme-stats.vercel.app/api?username=bijanf&show_icons=true&theme=flag-india)
