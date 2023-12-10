@@ -15,4 +15,4 @@ I am father, friend, climate scientist and love to learn how to code.
 
 ![Bijanf's GitHub stats](https://github-readme-stats.vercel.app/api?username=bijanf&show_icons=true&theme=flag-india&hide_border=true)
 
-![Bijan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bijanf&custom_title=%20Bijan's%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=7F3FBF&line=7F3FBF&point=7F3FBF&title_color=#000000&area=true)
+![Bijan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bijanf&custom_title=%20Bijan's%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=7F3FBF&line=7F3FBF&point=7F3FBF&title_color=000000&area=true)
