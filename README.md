@@ -1,10 +1,10 @@
-<p align="center">
   ### About me 👋
 
   ![](https://komarev.com/ghpvc/?username=bijanf&color=brightgreen)
-
+  
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,python,r,vim" />
+    <img src="https://skillicons.dev/icons?i=git,c,python,r,vim,gitlab,emacs,fortran,slurm" />
   </a>
 </p>
 
