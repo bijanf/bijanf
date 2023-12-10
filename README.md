@@ -2,7 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=bijanf&color=brightgreen)
 
-[![My Skills](https://skillicons.dev/icons?i=python,C,&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,python,r,vim" />
+  </a>
+</p>
 
 I am father, friend, climate scientist and love to learn how to code.
 
