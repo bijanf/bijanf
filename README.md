@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=bijanf&color=brightgreen)
 
-[![My Skills](https://skillicons.dev/icons?i=python,R,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,C,&perline=3)](https://skillicons.dev)
 
 I am father, friend, climate scientist and love to learn how to code.
 
