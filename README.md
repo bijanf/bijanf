@@ -8,7 +8,13 @@
   </a>
 </p>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true) 
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=bijanf&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijanf&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
+
 I am father, friend, climate scientist and love to learn how to code.
 
 - 🔭 I’m currently working on downscaling and bias adjustment of climate model simulations using Regional Climate models, statistical methods and Deep Learning. 
