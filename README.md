@@ -14,3 +14,5 @@ I am father, friend, climate scientist and love to learn how to code.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijanf&layout=compact&hide_border=true)
 
 ![Bijanf's GitHub stats](https://github-readme-stats.vercel.app/api?username=bijanf&show_icons=true&theme=flag-india&hide_border=true)
+
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bijanf&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
