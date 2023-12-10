@@ -8,6 +8,7 @@
   </a>
 </p>
 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true) 
 I am father, friend, climate scientist and love to learn how to code.
 
 - 🔭 I’m currently working on downscaling and bias adjustment of climate model simulations using Regional Climate models, statistical methods and Deep Learning. 
