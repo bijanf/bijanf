@@ -1,8 +1,8 @@
-### About me 👋
-
-![](https://komarev.com/ghpvc/?username=bijanf&color=brightgreen)
-
 <p align="center">
+  ### About me 👋
+
+  ![](https://komarev.com/ghpvc/?username=bijanf&color=brightgreen)
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,python,r,vim" />
   </a>
