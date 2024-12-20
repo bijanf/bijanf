@@ -15,5 +15,5 @@
 
 I am father, friend, climate scientist and love to learn how to code.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bijanfallah/)
-- ⚡ Fun fact: I play soccer at https://www.borussia-pankow-1960.de/.
+- ⚡ Fun fact: I play soccer at https://www.borussiapankow.org/.
  
